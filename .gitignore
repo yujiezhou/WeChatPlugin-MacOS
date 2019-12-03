@@ -7,3 +7,5 @@
 #
 Pods/
 Podfile.lock
+
+.history/
